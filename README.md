@@ -9,5 +9,7 @@
 - `hello.py`: اولین برنامه از Termux روی گوشی
 
 ## اجرا
+```
 pip install numpy matplotlib
 python plot.py
+```
